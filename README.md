@@ -1,6 +1,5 @@
-📊 Supply Chain Visibility System with Optimization Analytics
+📊 Supply Chain Visibility System with Optimization Analytics Group1
 🚀 Project Overview
-
 This project was completed as part of the Infosys Springboard Virtual Internship 7.0 and focuses on Supply Chain Visibility & Optimization using Business Intelligence and Data Analytics.
 
 The project analyzes the DataCo Supply Chain Dataset to understand sales, orders, products, customers, shipping, delivery performance, markets, discounts, and profitability. The raw supply chain data was cleaned, transformed, and visualized using Microsoft Power BI to generate meaningful business insights through seven interactive dashboards.
@@ -8,95 +7,24 @@ The project analyzes the DataCo Supply Chain Dataset to understand sales, orders
 The project demonstrates how Power BI dashboards improve supply chain visibility, support operational monitoring, identify performance trends, and enable data-driven business decision-making.
 
 🗂️ Project Files
-
 The repository contains the following project resources:
 
-File / Folder
-
-	
-
-Description
-
-
-
-
-📁 Team_Members_PPT/
-
-	
-
-Individual presentation slides prepared by each team member.
-
-
-
-
-📄 DataCoSupplyChainDataset.csv
-
-	
-
-Supply chain dataset used for analysis and dashboard development.
-
-
-
-
-📊 SupplyChainVisibilityOptimization.pbix
-
-	
-
-Power BI dashboard file containing all seven dashboards.
-
-
-
-
-📑 Internship_Completion_Report.pdf
-
-	
-
-Final internship completion report with project documentation.
-
-
-
-
-📽️ Team_Presentation.pptx
-
-	
-
-Final team presentation prepared for project evaluation.
-
-
-
-
-📜 LICENSE
-
-	
-
-MIT License for the repository.
-
-
-
-
-📘 README.md
-
-	
-
-Complete project overview and documentation.
-
+File / Folder	Description
+📁 Team_Members_PPT/	Individual presentation slides prepared by team members
+📄 Dataset.csv	Supply chain dataset used for analysis
+📊 Powerbi_Dashboard.pbix	Power BI dashboard and data visualization file
+📑 Internship_Completion_Report.docx	Detailed project completion report
+📽️ Team_PPT.pptx	Final team presentation
+📜 LICENSE	MIT License for the repository
+📘 README.md	Project documentation and overview
 🎯 Objectives
-
 Improve supply chain visibility through interactive Power BI dashboards.
-
 Analyze sales, orders, customers, products, shipping, discounts, and profitability.
-
 Identify operational bottlenecks and business performance trends.
-
 Monitor important Key Performance Indicators (KPIs).
-
 Support data-driven decision-making using Business Intelligence.
-
 Improve logistics efficiency and customer service through dashboard insights.
-
 Demonstrate the practical application of Power BI in supply chain analytics.
-
-🔑 Key Features
 📊 Interactive Power BI Dashboard
 
 Provides an interactive business intelligence dashboard with KPIs, charts, filters, and slicers for supply chain analysis.
@@ -122,22 +50,16 @@ Analyzes regional sales, discount trends, order performance, shipping profitabil
 Generates meaningful insights that help improve supply chain planning, inventory management, delivery performance, and business growth.
 
 🛠️ Tools & Technologies
-
 Microsoft Power BI – Dashboard development, visualization, and KPI analysis.
-
 Power Query Editor – Data cleaning, preprocessing, and transformation.
-
 DAX – Calculated measures and KPI creation.
-
 Microsoft Excel / CSV – Dataset verification and CSV conversion.
-
 GitHub – Project repository management and documentation.
-
 GitLab – Version control and project submission repository.
-
 Microsoft Teams – Team collaboration, meetings, and mentor communication.
-
 🔄 Project Workflow
+The project follows a structured data analytics workflow:
+
 1. Problem Statement
 
 Identified the business problem and project objectives related to supply chain visibility and optimization.
@@ -169,133 +91,70 @@ Developed seven interactive Power BI dashboards covering different supply chain 
 8. Insights & Report Generation
 
 Generated business insights and prepared the final internship report and presentation.
-
 📌 Key Insights
-
 The Power BI dashboards provide insights into:
 
 Overall supply chain performance.
-
 Sales and profit analysis.
-
 Product pricing and category performance.
-
 Customer behavior and geographic distribution.
-
 Delivery status and shipping efficiency.
-
 Regional and market performance.
-
 Order quantity, discount trends, and profitability.
-
 These insights help identify operational challenges and improve business performance through data-driven decisions.
 
-📊 Dashboards Included
-
-Supply Chain Performance Dashboard
-
-Product Performance & Pricing Dashboard
-
-Customer & Geographic Analysis Dashboard
-
-Delivery & Shipping Performance Dashboard
-
-Regional & Market Performance Dashboard
-
-Order & Discount Performance Dashboard
-
-Profitability & Order Insights Dashboard
-
 🌟 Project Outcomes
-
 The project demonstrates how Business Intelligence can improve supply chain operations by:
 
 Providing better visibility into business performance.
-
 Monitoring important KPIs in real time.
-
 Identifying delivery delays and logistics challenges.
-
 Understanding customer purchasing behavior.
-
 Comparing regional market performance.
-
 Supporting inventory planning and pricing strategies.
-
 Enabling faster and more informed decision-making.
-
 👥 Team Learnings & Outcomes
-
 Through this internship project, the team gained practical experience in both technical and professional skills.
 
 🔧 Technical Skills
-
 Microsoft Power BI Dashboard Development.
-
 Power Query Data Preprocessing.
-
 DAX Measures and KPI Creation.
-
 Data Visualization and Business Intelligence.
-
 GitHub and GitLab Repository Management.
-
 💡 Soft Skills
-
 Problem Solving and Analytical Thinking.
-
 Team Collaboration.
-
 Communication and Presentation Skills.
-
 Project Planning and Time Management.
-
 Data-Driven Decision Making.
+The project provided practical exposure to applying academic knowledge to a real-world, industry-oriented supply chain problem.
 
 🚀 Future Enhancements
+The project can be further enhanced by:
 
 Integrate real-time supply chain data.
-
 Add predictive analytics for demand forecasting.
-
 Develop supplier performance dashboards.
-
 Implement inventory optimization models.
-
 Publish dashboards through Power BI Service.
-
 Automate business reporting and alerts.
-
 🏁 Conclusion
-
 The Supply Chain Visibility System with Optimization Analytics project successfully transformed raw supply chain data into a complete Business Intelligence reporting solution using Microsoft Power BI. Seven interactive dashboards provide meaningful insights into sales, customers, products, delivery performance, regional markets, discounts, and profitability.
 
 The project highlights how Power BI dashboards improve operational transparency, support business communication, and enable informed data-driven decisions in supply chain management.
 
 💬 Contributors
-
 Kapu Tejaswini
-
-The individual presentations of all team members are available in the Team_Members_PPT/ folder.
+The individual contributions and presentation materials of the team members are available in the Team_Members_PPT/ folder.
 
 📅 Internship Details
-
-Program: Infosys Springboard Virtual Internship 7.0
-
-Project: Supply Chain Visibility System with Optimization Analytics
-
-Domain: Data Visualization & Business Intelligence
-
-Year: 2026
+Program: Infosys Springboard Virtual Internship 7.0 Project: Supply Chain Visibility & Optimization Domain: Data Analytics & Data Visualization Year: 2026
 
 📌 Notes
-
 This project was developed as part of the Infosys Springboard Virtual Internship 7.0.
-
-The dataset and dashboard are intended for educational and internship demonstration purposes.
-
-The repository contains the Power BI dashboard, dataset, report, presentations, and supporting project resources.
-
+The dataset and project resources are intended for educational and demonstration purposes.
+The project demonstrates an internship-based, industry-oriented application of data analytics and Business Intelligence.
+The repository contains the project dashboard, dataset, reports, presentations, and supporting resources.
 📜 License
-
 This project is licensed under the MIT License. See the LICENSE file for more information.
