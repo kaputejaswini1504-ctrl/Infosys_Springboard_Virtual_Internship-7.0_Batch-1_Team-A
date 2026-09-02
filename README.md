@@ -96,7 +96,7 @@ Studied dataset columns, data types, relationships, and important business attri
 
 Performed data cleaning and transformation using Power Query Editor.
 
-### 5. Data Cleaning
+### 5. Data Modelling
 
 Removed unnecessary columns, handled missing values, duplicates, and corrected inconsistent records.
 
