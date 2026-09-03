@@ -191,6 +191,7 @@ The project highlights how Power BI dashboards improve operational transparency,
 ## 💬 Contributors
 
 - **Kapu Tejaswini**
+- **Challa Jaya Deepika Reddy**
 
 The individual presentation materials are available in the **Team_Members_PPT/** folder.
 
